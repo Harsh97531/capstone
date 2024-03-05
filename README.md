@@ -7,5 +7,5 @@ This project explores the predictive power of machine learning algorithms and Go
 3. Statistical validation is necessary to establish prediction reliability.
    
 # Future Directions
-Incorporate more variables like geopolitical events and inflation rates to improve accuracy.
-Explore deep learning models for better prediction capabilities.
+1. Incorporate more variables like geopolitical events and inflation rates to improve accuracy.
+2. Explore deep learning models for better prediction capabilities.
