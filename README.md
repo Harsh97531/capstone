@@ -9,4 +9,3 @@ Statistical validation is necessary to establish prediction reliability.
 Future Directions
 Incorporate more variables like geopolitical events and inflation rates to improve accuracy.
 Explore deep learning models for better prediction capabilities.
-For more details on methodology and results, refer to our full research report.
